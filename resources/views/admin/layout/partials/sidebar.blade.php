@@ -46,6 +46,25 @@
                   </li> 
               </ul>
 			</li>
+			<li class="sub-menu">
+				<a href="javascript:;" class="">
+					<i class="fa fa-user" aria-hidden="true"></i>
+					<span>Products</span>
+					<span class="menu-arrow arrow_carrot-right"></span>
+				</a>
+				<ul class="sub">
+                  <li><a class="" href="#">
+	                  <i class="fa fa-user-plus" aria-hidden="true"></i>
+	                  <span>Add Product</span>
+	                  </a>
+                  </li>                          
+                   <li><a class="" href="#">
+	                  <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+	                  <span>All Products</span>
+	                  </a>
+                  </li> 
+              </ul>
+			</li>
 		</ul>
 		{{-- sidebar menu end --}}
 	</div>
