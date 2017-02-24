@@ -59,7 +59,7 @@
 	                  </a>
                   </li>                          
                    <li><a class="" href="#">
-	                  <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+	                  <i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
 	                  <span>All Products</span>
 	                  </a>
                   </li> 
