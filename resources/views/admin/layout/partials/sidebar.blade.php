@@ -48,13 +48,13 @@
 			</li>
 			<li class="sub-menu">
 				<a href="javascript:;" class="">
-					<i class="fa fa-user" aria-hidden="true"></i>
+					<i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
 					<span>Products</span>
 					<span class="menu-arrow arrow_carrot-right"></span>
 				</a>
 				<ul class="sub">
                   <li><a class="" href="#">
-	                  <i class="fa fa-user-plus" aria-hidden="true"></i>
+	                  <i class="fa fa-cart-plus" aria-hidden="true"></i>
 	                  <span>Add Product</span>
 	                  </a>
                   </li>                          
